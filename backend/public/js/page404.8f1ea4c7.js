@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfruit"]=self["webpackChunkfruit"]||[]).push([[837],{2609:function(r,n,u){u.r(n),u.d(n,{default:function(){return o}});var e=u(3396);const t=(0,e._)("h1",null,"Oops Pas de fruit ici",-1),i=(0,e._)("h2",null,"Erreur 404",-1),l=(0,e._)("img",{src:"/img/404.gif",alt:"gif water melon facepalm "},null,-1);function f(r,n){return(0,e.wg)(),(0,e.iD)(e.HY,null,[t,i,l],64)}var a=u(89);const c={},s=(0,a.Z)(c,[["render",f]]);var o=s}}]);
+//# sourceMappingURL=page404.8f1ea4c7.js.map
